@@ -88,6 +88,14 @@ cl.exe /nologo /W4 /EHsc /O2 /D_UNICODE /DUNICODE /FeAlternateDataStreamScanner.
 ```
 
 
+# 🚀 Créer un fichier normal
+
+# 🚀 Créer un ADS caché
+
+# 🚀 Créer un ADS exécutable (suspect)
+
+# 🚀 Lister les ADS (méthode PowerShell)
+
 ## 🚀 Utilisation
 
 ### Scan basique
@@ -113,14 +121,6 @@ cl.exe /nologo /W4 /EHsc /O2 /D_UNICODE /DUNICODE /FeAlternateDataStreamScanner.
 2. Choisissez l'emplacement du fichier CSV
 3. Ouvrez avec Excel ou LibreOffice pour analyse
 
-
-# 🚀 Créer un fichier normal
-
-# 🚀 Créer un ADS caché
-
-# 🚀 Créer un ADS exécutable (suspect)
-
-# 🚀 Lister les ADS (méthode PowerShell)
 
 ## 🚀 Exemples d'utilisation forensique
 
@@ -413,6 +413,14 @@ furnished to do so, subject to the following conditions:
 **AlternateDataStreamScanner** - Outil forensique pour la détection et l'analyse des flux de données alternatifs NTFS
 Développé par **Ayi NEDJIMI** - 2025
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 ---
 
