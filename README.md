@@ -69,6 +69,14 @@ Ces flux sont totalement invisibles pour l'utilisateur normal et ne sont pas com
 9. **Journal de log** : Messages et erreurs
 
 
+# 🚀 Créer un fichier normal
+
+# 🚀 Créer un ADS caché
+
+# 🚀 Créer un ADS exécutable (suspect)
+
+# 🚀 Lister les ADS (méthode PowerShell)
+
 ## Compilation
 
 ### Prérequis
@@ -87,14 +95,6 @@ cl.exe /nologo /W4 /EHsc /O2 /D_UNICODE /DUNICODE /FeAlternateDataStreamScanner.
     kernel32.lib user32.lib gdi32.lib comctl32.lib comdlg32.lib shlwapi.lib shell32.lib ole32.lib
 ```
 
-
-# 🚀 Créer un fichier normal
-
-# 🚀 Créer un ADS caché
-
-# 🚀 Créer un ADS exécutable (suspect)
-
-# 🚀 Lister les ADS (méthode PowerShell)
 
 ## 🚀 Utilisation
 
@@ -413,6 +413,14 @@ furnished to do so, subject to the following conditions:
 **AlternateDataStreamScanner** - Outil forensique pour la détection et l'analyse des flux de données alternatifs NTFS
 Développé par **Ayi NEDJIMI** - 2025
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 - --
 
