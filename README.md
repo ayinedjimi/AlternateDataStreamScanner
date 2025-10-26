@@ -49,6 +49,14 @@ Ces flux sont totalement invisibles pour l'utilisateur normal et ne sont pas com
 - **Logging détaillé** : Journal des opérations
 
 
+# 🚀 Créer un fichier normal
+
+# 🚀 Créer un ADS caché
+
+# 🚀 Créer un ADS exécutable (suspect)
+
+# 🚀 Lister les ADS (méthode PowerShell)
+
 ## Interface utilisateur
 
 ### Contrôles principaux
@@ -68,14 +76,6 @@ Ces flux sont totalement invisibles pour l'utilisateur normal et ne sont pas com
 8. **Bouton "Exporter Résultats"** : Sauvegarde en CSV
 9. **Journal de log** : Messages et erreurs
 
-
-# 🚀 Créer un fichier normal
-
-# 🚀 Créer un ADS caché
-
-# 🚀 Créer un ADS exécutable (suspect)
-
-# 🚀 Lister les ADS (méthode PowerShell)
 
 ## Compilation
 
@@ -413,6 +413,14 @@ furnished to do so, subject to the following conditions:
 **AlternateDataStreamScanner** - Outil forensique pour la détection et l'analyse des flux de données alternatifs NTFS
 Développé par **Ayi NEDJIMI** - 2025
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 - --
 
