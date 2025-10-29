@@ -23,6 +23,14 @@ fichier.txt:config.ini   <- ADS caché (invisible)
 Ces flux sont totalement invisibles pour l'utilisateur normal et ne sont pas comptabilisés dans la taille du fichier affichée par Windows.
 
 
+# 🚀 Créer un fichier normal
+
+# 🚀 Créer un ADS caché
+
+# 🚀 Créer un ADS exécutable (suspect)
+
+# 🚀 Lister les ADS (méthode PowerShell)
+
 ## ✨ Fonctionnalités principales
 
 ### Énumération ADS
@@ -48,14 +56,6 @@ Ces flux sont totalement invisibles pour l'utilisateur normal et ne sont pas com
 - **Statistiques** : Compteurs d'ADS trouvés et suspects
 - **Logging détaillé** : Journal des opérations
 
-
-# 🚀 Créer un fichier normal
-
-# 🚀 Créer un ADS caché
-
-# 🚀 Créer un ADS exécutable (suspect)
-
-# 🚀 Lister les ADS (méthode PowerShell)
 
 ## Interface utilisateur
 
@@ -413,6 +413,14 @@ furnished to do so, subject to the following conditions:
 **AlternateDataStreamScanner** - Outil forensique pour la détection et l'analyse des flux de données alternatifs NTFS
 Développé par **Ayi NEDJIMI** - 2025
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 - --
 
