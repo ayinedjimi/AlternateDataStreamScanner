@@ -1,5 +1,30 @@
 # 🚀 AlternateDataStreamScanner - Scanner de Flux de Données Alternatifs NTFS
 
+![C++](https://img.shields.io/badge/language-C++-blue?style=flat-square) ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square) ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen?style=flat-square) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)
+
+## 📑 Table des Matières
+
+- [📋 Description](#-description)
+- [Qu'est-ce qu'un ADS ?](#quest-ce-quun-ads-)
+- [✨ Fonctionnalités principales](#-fonctionnalités-principales)
+- [Interface utilisateur](#interface-utilisateur)
+- [Compilation](#compilation)
+- [🚀 Utilisation](#-utilisation)
+- [🚀 Exemples d'utilisation forensique](#-exemples-dutilisation-forensique)
+- [Architecture technique](#architecture-technique)
+- [Techniques d'attaque utilisant les ADS](#techniques-dattaque-utilisant-les-ads)
+- [🚀 Cas d'usage forensiques](#-cas-dusage-forensiques)
+- [Limitations connues](#limitations-connues)
+- [Améliorations futures](#améliorations-futures)
+- [Outils complémentaires](#outils-complémentaires)
+- [Références techniques](#références-techniques)
+- [🔧 Dépannage](#-dépannage)
+- [🔒 Sécurité et éthique](#-sécurité-et-éthique)
+- [📄 Licence MIT](#-licence-mit)
+- [Support](#support)
+
+
+
 
 **Auteur** : Ayi NEDJIMI
 **Licence** : MIT
@@ -9,6 +34,14 @@
 
 AlternateDataStreamScanner est un outil forensique spécialisé dans la détection et l'analyse des **ADS (Alternate Data Streams)** - des flux de données alternatifs cachés dans le système de fichiers NTFS. Ces flux peuvent être utilisés par des malwares pour dissimuler du code malveillant, stocker des configurations ou exfiltrer des données sans être visibles dans l'Explorateur Windows standard.
 
+
+# 🚀 Créer un fichier normal
+
+# 🚀 Créer un ADS caché
+
+# 🚀 Créer un ADS exécutable (suspect)
+
+# 🚀 Lister les ADS (méthode PowerShell)
 
 ## Qu'est-ce qu'un ADS ?
 
@@ -22,14 +55,6 @@ fichier.txt:config.ini   <- ADS caché (invisible)
 
 Ces flux sont totalement invisibles pour l'utilisateur normal et ne sont pas comptabilisés dans la taille du fichier affichée par Windows.
 
-
-# 🚀 Créer un fichier normal
-
-# 🚀 Créer un ADS caché
-
-# 🚀 Créer un ADS exécutable (suspect)
-
-# 🚀 Lister les ADS (méthode PowerShell)
 
 ## ✨ Fonctionnalités principales
 
@@ -413,6 +438,14 @@ furnished to do so, subject to the following conditions:
 **AlternateDataStreamScanner** - Outil forensique pour la détection et l'analyse des flux de données alternatifs NTFS
 Développé par **Ayi NEDJIMI** - 2025
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 - --
 
